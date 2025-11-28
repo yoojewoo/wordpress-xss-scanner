@@ -109,13 +109,13 @@ wordpress-xss-scanner/
 │   └── xss_scanner/
 │       ├── __init__.py
 │       ├── __version__.py
-│       ├── downloader.py
-│       ├── scanner.py
 │       ├── analyzer.py
-│       ├── reporter.py
-│       ├── verifier.py
+│       ├── downloader.py
+│       ├── main.py
 │       ├── patterns.py
-│       ├── main.py 
+│       ├── reporter.py
+│       ├── scanner.py
+│       ├── verifier.py 
 │
 ├── LICENSE
 ├── README.md
